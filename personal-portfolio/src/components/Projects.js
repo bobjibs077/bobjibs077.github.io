@@ -11,8 +11,8 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "AI Flappy Bird",
+      description: "AI Flappy Bird is a project that uses reinforcement learning to train an AI agent to play the popular game Flappy Bird. The agent learns to navigate through the obstacles by receiving rewards for successful actions and penalties for failures.",
       imgUrl: projImg1,
     },
   ];
